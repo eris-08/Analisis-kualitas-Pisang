@@ -27,5 +27,5 @@ Setiap model menunjukkan hasil akurasi yang berbeda, dengan variasi performa ter
 ## 🧠 Tentang Proyek
 File `analisa kualitas pisang.ows` berisi workflow lengkap analisis di Orange, mulai dari data input, preprocessing, hingga evaluasi model.
 
-✨ Dibuat oleh [Fahil Mubarak](https://github.com/eris-08)
+✨ Dibuat oleh [Fadhil Mubarak](https://github.com/eris-08)
 
